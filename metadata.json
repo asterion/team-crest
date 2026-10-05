@@ -1,0 +1,11 @@
+{
+  "uuid": "team-crest@asterion",
+  "name": "Team Crest",
+  "description": "Shows the crest of your football team in the top panel. Choose any image of the crest in the preferences; click the crest to see it larger.",
+  "settings-schema": "org.gnome.shell.extensions.team-crest",
+  "gettext-domain": "team-crest@asterion",
+  "version": 1,
+  "shell-version": [
+    "50"
+  ]
+}

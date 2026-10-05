@@ -1,0 +1,58 @@
+# Spanish translations for team-crest@asterion package.
+# Copyright (C) 2026 THE team-crest@asterion'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the team-crest@asterion package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: team-crest@asterion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-05 19:34-0300\n"
+"PO-Revision-Date: 2026-10-05 19:01-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: indicator.js:34
+msgid "Choose Crest…"
+msgstr "Elegir escudo…"
+
+#: prefs.js:23
+msgid "Your Team"
+msgstr "Tu equipo"
+
+#: prefs.js:24
+msgid "Download the crest of your football team and choose the image here. PNG or SVG with a transparent background looks best."
+msgstr "Descarga el escudo de tu equipo de fútbol y elige la imagen aquí. Un PNG o SVG con fondo transparente se ve mejor."
+
+#: prefs.js:29
+msgid "Crest"
+msgstr "Escudo"
+
+#: prefs.js:36
+msgid "Remove"
+msgstr "Quitar"
+
+#: prefs.js:42
+msgid "Choose…"
+msgstr "Elegir…"
+
+#: prefs.js:54
+msgid "No crest chosen"
+msgstr "Sin escudo elegido"
+
+#: prefs.js:61
+msgid "Where to Find Crests"
+msgstr "Dónde encontrar escudos"
+
+#: prefs.js:74
+msgid "Images"
+msgstr "Imágenes"
+
+#: prefs.js:79
+msgid "Choose a Crest Image"
+msgstr "Elegir una imagen del escudo"

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.team-crest" path="/org/gnome/shell/extensions/team-crest/">
+    <key name="crest-path" type="s">
+      <default>''</default>
+      <summary>Crest image</summary>
+      <description>Absolute path of the image with the team's crest. Empty means no crest was chosen yet.</description>
+    </key>
+  </schema>
+</schemalist>

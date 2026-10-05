@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <!-- Placeholder crest: a shield outline with a ball in the middle -->
+  <g fill="#2e3436">
+    <path fill-rule="evenodd" d="M2 1h12v7.5c0 3-2.5 5.3-6 6.5-3.500-1.200-6-3.500-6-6.500ZM3.500 2.500v6c0 2.100 1.700 3.800 4.500 4.900 2.800-1.100 4.500-2.800 4.500-4.900v-6Z"/>
+    <circle cx="8" cy="7" r="2.500"/>
+  </g>
+</svg>

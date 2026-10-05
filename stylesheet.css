@@ -1,0 +1,9 @@
+/* Team Crest: the crest in the top panel and the larger one in its menu */
+
+.team-crest-icon {
+    icon-size: 22px;
+}
+
+.team-crest-large {
+    icon-size: 256px;
+}

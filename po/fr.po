@@ -1,0 +1,58 @@
+# French translations for team-crest@asterion package.
+# Copyright (C) 2026 THE team-crest@asterion'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the team-crest@asterion package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: team-crest@asterion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-05 19:34-0300\n"
+"PO-Revision-Date: 2026-10-05 19:01-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: indicator.js:34
+msgid "Choose Crest…"
+msgstr "Choisir l’écusson…"
+
+#: prefs.js:23
+msgid "Your Team"
+msgstr "Votre équipe"
+
+#: prefs.js:24
+msgid "Download the crest of your football team and choose the image here. PNG or SVG with a transparent background looks best."
+msgstr "Téléchargez l’écusson de votre équipe de football et choisissez l’image ici. Un PNG ou SVG à fond transparent rend mieux."
+
+#: prefs.js:29
+msgid "Crest"
+msgstr "Écusson"
+
+#: prefs.js:36
+msgid "Remove"
+msgstr "Retirer"
+
+#: prefs.js:42
+msgid "Choose…"
+msgstr "Choisir…"
+
+#: prefs.js:54
+msgid "No crest chosen"
+msgstr "Aucun écusson choisi"
+
+#: prefs.js:61
+msgid "Where to Find Crests"
+msgstr "Où trouver des écussons"
+
+#: prefs.js:74
+msgid "Images"
+msgstr "Images"
+
+#: prefs.js:79
+msgid "Choose a Crest Image"
+msgstr "Choisir une image de l’écusson"
